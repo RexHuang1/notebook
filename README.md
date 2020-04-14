@@ -1,0 +1,30 @@
+# notebook
+#### 书籍阅读
+- Android第一行代码(完成)
+- Android开发艺术探索(完成)
+- Head First(完成)
+#### 网络
+- tcp/ip协议族(完成)
+- socket套接字使用(完成)
+#### 算法
+- 基础排序算法(完成)
+- 大话数据结构(未完成)
+#### 实用第三库解析
+##### Android
+- **网络**
+    - OkHttp(进行中)
+    - Retrofit(进行中)
+- 数据库
+    - GreenDao  
+    - Room  
+- 图片库
+    - Glide
+- 事件总线
+    - EventBus
+- 内存泄露
+    - Leakcanary
+-  依赖注入
+    - ButterKnife
+    - Dragger
+- **官方的新库**
+    - jetpack 
