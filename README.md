@@ -12,7 +12,7 @@
 #### 实用第三库解析
 ##### Android
 - **网络**
-    - OkHttp(进行中)
+    - [OkHttp](okhttp_3.14.x.md)
     - Retrofit(进行中)
 - 数据库
     - GreenDao  
@@ -28,3 +28,6 @@
     - Dragger
 - **官方的新库**
     - jetpack 
+#### 博客
+- [Android源码下的系统开发](https://www.jianshu.com/p/85557c7b7653)
+- [Android源码目录和编译流程](https://www.jianshu.com/p/d6e752636ba3)
