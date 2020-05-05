@@ -20,7 +20,7 @@
 - 图片库
     - Glide
 - 事件总线
-    - EventBus
+    - [EventBus](EventBus3.0.md)
 - 内存泄露
     - Leakcanary
 -  依赖注入
